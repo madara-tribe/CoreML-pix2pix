@@ -9,3 +9,8 @@
 - onnx 1.10.2
 - onnxruntime 1.9.0
 ```
+
+
+
+# References
+- [PyTorch to CoreML model conversion](https://learnopencv.com/pytorch-to-coreml-model-conversion/)
