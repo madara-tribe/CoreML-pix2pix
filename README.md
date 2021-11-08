@@ -7,7 +7,6 @@
 - torchvision 0.8.2+cu101
 - coremltools 5.0
 - onnx 1.10.2
-- onnxruntime 1.9.0
 ```
 # Abstract
 
