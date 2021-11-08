@@ -9,6 +9,11 @@
 - onnx 1.10.2
 - onnxruntime 1.9.0
 ```
+# Abstract
+
+this model pix2pix is mainly for iOs device by converting coreML 
+converting pytorch to coreML, not onnx to coreML.
+
 
 
 # coreML inference on iOS devices (torch => coreML)
