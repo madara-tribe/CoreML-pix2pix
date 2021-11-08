@@ -1,0 +1,31 @@
+input {
+  name: "input"
+  type {
+    multiArrayType {
+      shape: 1
+      shape: 3
+      shape: 256
+      shape: 256
+      dataType: FLOAT32
+    }
+  }
+}
+output {
+  name: "var_293"
+  type {
+    multiArrayType {
+      dataType: FLOAT32
+    }
+  }
+}
+metadata {
+  userDefined {
+    key: "com.github.apple.coremltools.source"
+    value: "torch==1.7.1+cu101"
+  }
+  userDefined {
+    key: "com.github.apple.coremltools.version"
+    value: "5.0"
+  }
+}
+
