@@ -11,6 +11,16 @@
 ```
 
 
+# coreML inference on ios devices (torch => coreML)
+- MacBook Air (M1, 2020)
+- memory 16 GB
+```
+cd coreML
+python3 coreml-inference.py
+>>>
+Inference Latency (milliseconds) is 3367.694854736328 [ms]
+```
+
 
 # References
 - [PyTorch to CoreML model conversion](https://learnopencv.com/pytorch-to-coreml-model-conversion/)
