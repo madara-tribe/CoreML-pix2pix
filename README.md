@@ -43,7 +43,7 @@ Inference Latency (milliseconds) is 3367.694854736328 [ms]
 
 
 
-# References
+# References to run CoreML as Xcode project 
 - [PyTorch to CoreML model conversion](https://learnopencv.com/pytorch-to-coreml-model-conversion/)
 - [coreML](https://developer.apple.com/documentation/coreml)
 - [MLModelCamera](https://github.com/shu223/MLModelCamera)
