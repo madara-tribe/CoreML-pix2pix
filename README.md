@@ -39,3 +39,6 @@ Inference Latency (milliseconds) is 3367.694854736328 [ms]
 
 # References
 - [PyTorch to CoreML model conversion](https://learnopencv.com/pytorch-to-coreml-model-conversion/)
+- [coreML](https://developer.apple.com/documentation/coreml)
+- [MLModelCamera](https://github.com/shu223/MLModelCamera)
+- [CoreMLHelpers](https://github.com/hollance/CoreMLHelpers)
