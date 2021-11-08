@@ -24,9 +24,12 @@ Inference Latency (milliseconds) is 3367.694854736328 [ms]
 
 ## results image
 
-<b>input</b>
+<b>input</b>. <b>output</b>
 
-<b>output</b>
+<img src="https://user-images.githubusercontent.com/48679574/140758490-9b9cb84f-b6b8-4d4f-95a6-6af5f78b6fa3.png" width="400px">
+
+<img src="https://user-images.githubusercontent.com/48679574/140758521-ebf06219-7bf6-4d9c-8bca-c31c7130e262.png" width="400px">
+
 
 ## loss curve
 
