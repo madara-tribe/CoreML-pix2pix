@@ -22,7 +22,7 @@ converting pytorch to coreML, not onnx to coreML.
 - memory 16 GB
 ```
 cd coreML
-python3 coreml-inference.py
+python3 inference.py
 >>>
 Inference Latency (milliseconds) is 3367.694854736328 [ms]
 ```
