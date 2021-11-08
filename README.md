@@ -14,6 +14,9 @@
 this model pix2pix is mainly for iOs device by converting coreML 
 converting pytorch to coreML, not onnx to coreML.
 
+<img src="https://user-images.githubusercontent.com/48679574/140760077-2d11343c-fc5e-428b-a102-ef791a732439.png" width="400px">
+<img src="https://user-images.githubusercontent.com/48679574/140760092-e3870226-baec-4890-b7cc-1eb9f6345ee8.png" width="400px">
+
 
 
 # coreML inference on iOS devices (torch => coreML)
