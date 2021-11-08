@@ -11,7 +11,7 @@
 ```
 
 
-# coreML inference on ios devices (torch => coreML)
+# coreML inference on iOS devices (torch => coreML)
 - MacBook Air (M1, 2020)
 - memory 16 GB
 ```
