@@ -17,7 +17,7 @@ converting pytorch to coreML, not onnx to coreML.
 
 
 
-# coreML inference on iOS devices (torch => coreML)
+# CoreML inference on iOS devices (torch => coreML)
 - MacBook Air (M1, 2020)
 - memory 16 GB
 ```
