@@ -22,5 +22,17 @@ Inference Latency (milliseconds) is 3367.694854736328 [ms]
 ```
 
 
+## results image
+
+<b>input</b>
+
+<b>output</b>
+
+## loss curve
+
+<img src="https://user-images.githubusercontent.com/48679574/140757902-fed30192-3c0d-48ce-8964-9ecd4bc0d305.png" width="400px"><img src="https://user-images.githubusercontent.com/48679574/140757913-a85438ae-6e11-4b45-93e2-981413b0a186.png" width="400px">
+
+
+
 # References
 - [PyTorch to CoreML model conversion](https://learnopencv.com/pytorch-to-coreml-model-conversion/)
